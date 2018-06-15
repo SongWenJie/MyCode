@@ -1,7 +1,0 @@
-D:\MyCode\MySet\MySet\bin\Debug\MySet.exe.config
-D:\MyCode\MySet\MySet\bin\Debug\MySet.exe
-D:\MyCode\MySet\MySet\bin\Debug\MySet.pdb
-D:\MyCode\MySet\MySet\obj\Debug\MySet.csprojAssemblyReference.cache
-D:\MyCode\MySet\MySet\obj\Debug\MySet.csproj.CoreCompileInputs.cache
-D:\MyCode\MySet\MySet\obj\Debug\MySet.exe
-D:\MyCode\MySet\MySet\obj\Debug\MySet.pdb
