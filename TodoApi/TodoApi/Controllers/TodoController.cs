@@ -9,8 +9,7 @@ using TodoApi.Models;
 namespace TodoApi.Controllers
 {
     [Route("api/todo")]
-    [ApiController]
-    public class TodoController : ControllerBase
+    public class TodoController : Controller
     {
         public ITodoRepository _todoRepository;
         public TodoController(ITodoRepository todoRepository)
@@ -18,6 +17,7 @@ namespace TodoApi.Controllers
             _todoRepository = todoRepository;
         }
 
+        [HttpGet]
         public IEnumerable<TodoItem> GetAll()
         {
             return _todoRepository.GetAll();
