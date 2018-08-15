@@ -69,5 +69,27 @@ namespace TodoApi.Controllers
         {
             _todoRepository.Remove(id);
         }
+
+
+        public async void Test()
+        {
+            if(true)
+            {
+
+            }
+            int a = 5;
+            int b = 0;
+            b =+a;
+
+
+            while(true)
+            {
+
+            }
+        }
+       
     }
 }
+
+
+
